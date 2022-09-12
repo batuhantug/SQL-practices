@@ -1,0 +1,62 @@
+1. CREATE TABLE employee(
+	id INTEGER,
+	name VARCHAR(50),
+	birthday date,
+	email VARCHAR(100)
+);
+
+3. ALTER TABLE employee RENAME COLUMN birtday to birthday;
+
+
+2.
+insert into employee (id, name, birthday, email) values (1, 'Elbertine Columbine', '1/18/1984', 'ecolumbine0@webnode.com');
+insert into employee (id, name, birthday, email) values (2, 'Tab Latus', '2/7/1991', 'tlatus1@boston.com');
+insert into employee (id, name, birthday, email) values (3, 'Levin Woolland', '7/15/1971', 'lwoolland2@baidu.com');
+insert into employee (id, name, birthday, email) values (4, 'Martita Abelwhite', '4/8/1957', 'mabelwhite3@bloglines.com');
+insert into employee (id, name, birthday, email) values (5, 'Poppy Noteyoung', '5/20/1973', 'pnoteyoung4@google.ca');
+insert into employee (id, name, birthday, email) values (6, 'Nadya Orehead', '10/17/1992', 'norehead5@list-manage.com');
+insert into employee (id, name, birthday, email) values (7, 'Clayborn Spain-Gower', '7/28/1985', 'cspaingower6@hugedomains.com');
+insert into employee (id, name, birthday, email) values (8, 'Dale Loudwell', '1/14/1983', 'dloudwell7@globo.com');
+insert into employee (id, name, birthday, email) values (9, 'Odette Sabathier', '3/1/1965', 'osabathier8@amazon.co.jp');
+insert into employee (id, name, birthday, email) values (10, 'Fancy Manis', '1/6/1979', 'fmanis9@canalblog.com');
+insert into employee (id, name, birthday, email) values (11, 'Greer Darwen', '4/7/1955', 'gdarwena@networkadvertising.org');
+insert into employee (id, name, birthday, email) values (12, 'Corie Fishbourne', '7/19/1953', 'cfishbourneb@geocities.jp');
+insert into employee (id, name, birthday, email) values (13, 'Oriana Bowie', '3/11/1968', 'obowiec@tumblr.com');
+insert into employee (id, name, birthday, email) values (14, 'Link McCurlye', '3/18/1990', 'lmccurlyed@ycombinator.com');
+insert into employee (id, name, birthday, email) values (15, 'Natalee Rosenberg', '9/19/1957', 'nrosenberge@exblog.jp');
+insert into employee (id, name, birthday, email) values (16, 'Issi Brabham', '11/7/1996', 'ibrabhamf@nature.com');
+insert into employee (id, name, birthday, email) values (17, 'Murvyn Truesdale', '11/19/1972', 'mtruesdaleg@businessinsider.com');
+insert into employee (id, name, birthday, email) values (18, 'Karon D''Alessio', '3/30/1963', 'kdalessioh@networkadvertising.org');
+insert into employee (id, name, birthday, email) values (19, 'Jaquith Tournay', '5/25/1997', 'jtournayi@blogtalkradio.com');
+insert into employee (id, name, birthday, email) values (20, 'Caitlin Lavies', '2/18/1988', 'claviesj@kickstarter.com');
+insert into employee (id, name, birthday, email) values (21, 'Thia Mateo', '6/18/1998', 'tmateok@slideshare.net');
+insert into employee (id, name, birthday, email) values (22, 'Mariana Wilgar', '5/11/1968', 'mwilgarl@state.tx.us');
+insert into employee (id, name, birthday, email) values (23, 'Ewell Whibley', '6/19/1958', 'ewhibleym@cyberchimps.com');
+insert into employee (id, name, birthday, email) values (24, 'Fidole Grogan', '1/21/1997', 'fgrogann@bandcamp.com');
+insert into employee (id, name, birthday, email) values (25, 'Arlina Battye', '10/1/1982', 'abattyeo@vkontakte.ru');
+insert into employee (id, name, birthday, email) values (26, 'Alard Kunze', '3/19/1957', 'akunzep@phpbb.com');
+insert into employee (id, name, birthday, email) values (27, 'Klemens Furse', '12/12/1968', 'kfurseq@google.de');
+insert into employee (id, name, birthday, email) values (28, 'Earl Willock', '12/17/1962', 'ewillockr@hugedomains.com');
+insert into employee (id, name, birthday, email) values (29, 'Marylee Lyenyng', '6/27/1989', 'mlyenyngs@jigsy.com');
+insert into employee (id, name, birthday, email) values (30, 'Maxim Mobius', '9/20/1995', 'mmobiust@gizmodo.com');
+insert into employee (id, name, birthday, email) values (31, 'Daryl Greenalf', '2/1/1974', 'dgreenalfu@disqus.com');
+insert into employee (id, name, birthday, email) values (32, 'Daniel Trewett', '12/17/1994', 'dtrewettv@nhs.uk');
+insert into employee (id, name, birthday, email) values (33, 'Obadias Merryfield', '1/27/1952', 'omerryfieldw@360.cn');
+insert into employee (id, name, birthday, email) values (34, 'Lucita Burchnall', '8/28/1997', 'lburchnallx@aol.com');
+insert into employee (id, name, birthday, email) values (35, 'Myca Stidson', '11/30/1998', 'mstidsony@gravatar.com');
+insert into employee (id, name, birthday, email) values (36, 'Tobye Euler', '8/20/1959', 'teulerz@mediafire.com');
+insert into employee (id, name, birthday, email) values (37, 'Hastie Whiffin', '2/20/1980', 'hwhiffin10@ustream.tv');
+insert into employee (id, name, birthday, email) values (38, 'Sherwynd Woodley', '1/29/1989', 'swoodley11@theglobeandmail.com');
+insert into employee (id, name, birthday, email) values (39, 'Ronica Sweedy', '2/25/1967', 'rsweedy12@com.com');
+insert into employee (id, name, birthday, email) values (40, 'Danika Triner', '11/22/1988', 'dtriner13@bigcartel.com');
+insert into employee (id, name, birthday, email) values (41, 'Heidi Cino', '3/23/1994', 'hcino14@uol.com.br');
+insert into employee (id, name, birthday, email) values (42, 'Adora Bovis', '5/10/1961', 'abovis15@ucsd.edu');
+insert into employee (id, name, birthday, email) values (43, 'Blanche Pestor', '12/28/1953', 'bpestor16@un.org');
+insert into employee (id, name, birthday, email) values (44, 'Kari Lill', '8/11/1999', 'klill17@weibo.com');
+insert into employee (id, name, birthday, email) values (45, 'Myer Adlem', '1/19/1951', 'madlem18@biglobe.ne.jp');
+insert into employee (id, name, birthday, email) values (46, 'Rosalia Menary', '7/22/1988', 'rmenary19@berkeley.edu');
+insert into employee (id, name, birthday, email) values (47, 'Whittaker Huggens', '7/20/1966', 'whuggens1a@so-net.ne.jp');
+insert into employee (id, name, birthday, email) values (48, 'Rodolphe Tunnacliffe', '11/29/1957', 'rtunnacliffe1b@illinois.edu');
+insert into employee (id, name, birthday, email) values (49, 'Sibyl Gretham', '9/20/1999', 'sgretham1c@pagesperso-orange.fr');
+insert into employee (id, name, birthday, email) values (50, 'Jami Maasz', '5/10/1996', 'jmaasz1d@nydailynews.com');
+
